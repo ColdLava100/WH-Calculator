@@ -109,7 +109,5 @@ Submit_button.grid(row=6, column=0, columnspan=2, pady=10, padx=10, ipadx=100)
 
 
 
-open()
-
 
 root.mainloop()
